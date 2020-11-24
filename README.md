@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ## 🔭 I’m currently working on ...
+#### Point of Sale System with FLutter and Dart for Desktop and Web
+#### Loyalty System with FLutter & Dart
 #### Students Affairs System with FLutter and Dart
 
 <!--
@@ -9,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
