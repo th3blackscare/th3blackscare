@@ -6,7 +6,7 @@
 - Students Affairs System with FLutter and Dart
 ### 🌱 I’m currently learning Advanced Software Engineering Concepts, NodeJS.
 ### 📫 How to reach me:
-![Facebook Profile][http://i.imgur.com/0o48UoR.png][http://www.facebook.com/th3blackscare]
+[![alt text][2.1]][2]
 ### ![](https://komarev.com/ghpvc/?username=th3blackscare)
 
 
@@ -16,12 +16,7 @@
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
+
 
 
 <!-- links to social media icons -->
