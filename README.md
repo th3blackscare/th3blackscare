@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My Name is Omar Sharif,
 ## 🔭 I’m currently working on ...
 - Point of Sale System with FLutter and Dart for Desktop and Web
 - Loyalty System with FLutter & Dart
@@ -8,6 +8,7 @@
 ### 📫 How to reach me:
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
+
 ### ![](https://komarev.com/ghpvc/?username=th3blackscare)
 
 
