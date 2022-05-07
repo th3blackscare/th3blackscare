@@ -8,7 +8,7 @@ My Name is Omar Sharif,
 ### 📫 How to reach me:
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
-#### My CV : [Link](https://1drv.ms/b/s!Al939_PhqQR3p2ulp7v0UADR0ZpC)
+#### My CV : [Link](https://github.com/th3blackscare/th3blackscare/blob/master/ocv.pdf)
 ### ![](https://komarev.com/ghpvc/?username=th3blackscare)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=th3blackscare)](https://git.io/streak-stats)
