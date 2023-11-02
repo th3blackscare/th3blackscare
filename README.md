@@ -11,8 +11,7 @@ My Name is Omar Sharif,
 #### My CV : [Link](https://github.com/th3blackscare/th3blackscare/blob/master/ocv.pdf)
 ### ![](https://komarev.com/ghpvc/?username=th3blackscare)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=th3blackscare)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=th3blackscare&theme=onedark-duo)](https://git.io/streak-stats)
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
