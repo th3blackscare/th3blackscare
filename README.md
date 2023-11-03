@@ -1,6 +1,6 @@
-### Hi there 👋
-My Name is Omar Sharif,
-## 🔭 I’m currently working on ...
+<!-- ### Hi there 👋 -->
+<!-- My Name is Omar Sharif, -->
+<!--## 🔭 I’m currently working on ...
 - Point of Sale System with FLutter and Dart for Desktop and Web
 - Loyalty System with FLutter & Dart
 - Students Affairs System with FLutter and Dart
@@ -8,7 +8,7 @@ My Name is Omar Sharif,
 ### 📫 How to reach me:
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
-#### My CV : [Link](https://github.com/th3blackscare/th3blackscare/blob/master/ocv.pdf)
+#### My CV : [Link](https://github.com/th3blackscare/th3blackscare/blob/master/ocv.pdf)<-->
 ### ![](https://komarev.com/ghpvc/?username=th3blackscare)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=th3blackscare&theme=onedark-duo)](https://git.io/streak-stats)
